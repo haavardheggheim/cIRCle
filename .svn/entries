@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="144"
+   name=""
+   committed-date="2011-11-20T16:20:32.490108Z"
+   url="https://dilbert.hig.no/svn/student/090875/cIRCle"
+   last-author="090875"
+   kind="dir"
+   uuid="2623504c-a7af-0410-b550-efa96ae9abf6"
+   repos="https://dilbert.hig.no/svn/student/090875"
+   prop-time="2011-11-18T13:14:54.123529Z"
+   revision="144"/>
+<entry
+   committed-rev="68"
+   name=".classpath"
+   text-time="2011-11-18T13:14:54.132530Z"
+   committed-date="2011-11-12T14:05:13.736612Z"
+   checksum="165e7d07717d229014e902745b7cb7f3"
+   last-author="090875"
+   kind="file"
+   prop-time="2011-11-18T13:14:51.769448Z"/>
+<entry
+   committed-rev="5"
+   name=".project"
+   text-time="2011-11-18T13:14:54.146531Z"
+   committed-date="2011-10-20T14:49:33.808482Z"
+   checksum="f24057a1415c51b7ffd55de437cea48c"
+   last-author="090875"
+   kind="file"
+   prop-time="2011-11-18T13:14:51.780449Z"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   committed-rev="20"
+   name="servers.ini"
+   text-time="2011-11-18T13:14:54.160531Z"
+   committed-date="2011-10-27T13:12:40.456530Z"
+   checksum="e4d56ba314c2164cea36d3a69cef80d8"
+   last-author="090875"
+   kind="file"
+   prop-time="2011-11-18T13:14:51.851453Z"/>
+<entry
+   committed-rev="68"
+   name="jerklib.jar"
+   text-time="2011-11-18T13:14:54.177532Z"
+   committed-date="2011-11-12T14:05:13.736612Z"
+   checksum="8d0107d27b4114f9f76c0493a409d0eb"
+   last-author="090875"
+   kind="file"
+   prop-time="2011-11-18T13:14:54.061526Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+</wc-entries>

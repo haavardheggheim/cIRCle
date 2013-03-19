@@ -1,0 +1,166 @@
+Abjects:Random server:irc.abjects.net:6666
+AbleNET:Random server:irc.ablenet.org:6667
+Accessirc:Random server:irc.accessirc.net:6667
+AfterNET:Random server:irc.afternet.org:6667
+AfterX:Random server:irc.afterx.net:6667
+Aitvaras:Random server:irc.data.lt:6667
+AllNetwork:Random server:irc.allnetwork.org:6667
+AlphaChat:Random server:irc.alphachat.net:6660
+ArabChat:Random server:irc.arabchat.net:6667
+Asylo:Random server:irc.asylo.com:6660
+Atrum:Random server:irc.atrum.org:6667
+AustChat:Random server:irc.austchat.net:6667
+AustNet:Random AU server:au.austnet.org:6667
+AustNet:Random US server:us.austnet.org:6667
+AustNet:Random server:irc.austnet.org:6667
+Axenet:Random server:irc.axenet.org:6660
+Azzurra:Random server:irc.azzurra.org:6666
+Beyondirc:Random server:irc.beyondirc.net:6660
+Bikers-IRC:Random server:irc.bikers-irc.net:6665
+BlabberNet:Random server:irc.blabber.net:6667
+Blitzed:Random server:irc.blitzed.org:6667
+BongsterNet:Random server:irc.bongster.org:6665
+Broken-Pipe:Random server:irc.broken-pipe.net:6667
+BruneiChat:Random server:irc.bruneichat.org:6667
+Caelestia:Random server:irc.caelestia.net:6667
+CentralChat:Random server:irc.centralchat.net:6667
+Chat4all:Random server:irc.chat4all.org:6666
+ChatNPlay:Random server:irc.chatnplay.net:6667
+ChatSociety:Random server:irc.chatsociety.net:6667
+ChatSpike:Random server:irc.chatspike.net:6667
+ChatX:Random server:irc.chatx.net:6660
+Chatcafe:Random server:irc.chatcafe.net:6667
+Chatnet:Random server:irc.chatnet.org:6660
+ChattingAway:Random server:irc.chattingaway.com:6667
+Ciudad:Random server:irc.ciudad.com.ar:6667
+CodersNet:Random server:irc.codersnet.org:6667
+Coldfront:Random server:irc.coldfront.net:6667
+Cyanide-x:Random server:irc.cyanide-x.net:6667
+Cyberarmy:Random server:irc.cyberarmy.net:6667
+DALnet:EU, DE, Hessen:matrix.de.eu.dal.net:6665
+DALnet:EU, NO, Oslo:valhall.no.eu.dal.net:6665
+DALnet:EU, SE, Stockholm:mozilla.se.eu.dal.net:6665
+DALnet:Random AU server:au.dal.net:6665
+DALnet:Random EU server:eu.dal.net:6665
+DALnet:Random US server:us.dal.net:6665
+DALnet:Random server:irc.dal.net:6660
+DALnet:US, CA, Orange:krypt.ca.us.dal.net:6665
+DALnet:US, VA, Richmond:punch.va.us.dal.net:6665
+DALnet:US, WA, Seattle:serverbuffet.wa.us.dal.net:6665
+Dark-Tou-Net:Random server:irc.d-t-net.de:6667
+DarkMyst:Random server:irc.darkmyst.org:6667
+DarkSin:Random server:irc.darksin.ch:6667
+Darktree:Random server:irc.darktree.net:6667
+Datawhore:Random server:irc.datawhore.net:6667
+DeepIRC:Random server:irc.deepirc.net:6660
+Deepspace:Random server:irc.deepspace.org:6667
+DeviantART:Random server:irc.deviantart.com:6667
+DrLnet:Random server:irc.drlnet.com:6660
+Dream-Irc:Random server:irc.dream-irc.de:6667
+Dynastynet:Random server:irc.dynastynet.net:6667
+ECNet:Random server:irc.ecnet.org:6667
+EFnet:CA, ON, Toronto:irc.teksavvy.ca:6661
+EFnet:CA, QC, Montreal:irc.choopa.ca:6665
+EFnet:EU, DK, Aarhus:irc.inet.tele.dk:6661
+EFnet:EU, FI, Helsinki:efnet.cs.hut.fi:6667
+EFnet:EU, NL, Amsterdam:efnet.xs4all.nl:6661
+EFnet:EU, NO, Homelien:irc.homelien.no:6666
+EFnet:EU, PL, Warszawa:irc.efnet.pl:6667
+EFnet:EU, SE, Borlange:irc.du.se:6666
+EFnet:Random server:irc.efnet.org:6667
+EFnet:US, CA, Fremont:irc.he.net:6666
+EFnet:US, FL, Miami:irc.eversible.com:6665
+EFnet:US, IL, Chicago:irc.servercentral.net:6660
+EFnet:US, MI, Ann Arbor:irc.umich.edu:6664
+EFnet:US, NJ, New Jersey:irc.choopa.net:6666
+EFnet:US, VA, Reston:irc.wh.verio.net:6665
+Echo34:Random server:irc.echo34.com:6667
+EnterTheGame:Random server:irc.enterthegame.com:6667
+EsperNet:Random server:irc.esper.net:6667
+EuropNet:Random server:irc.europnet.org:6667
+EuropeIRC:Random server:irc.europeirc.org:6667
+FBNet:Random server:irc.fbnet.org:6667
+FDFnet:Random server:irc.fdfnet.net:6666
+FEFnet:Random server:irc.fef.net:6667
+Financialchat:Random server:irc.financialchat.com:6667
+Foonetic:Random server:irc.foonetic.net:6667
+Forestnet:Random server:irc.forestnet.org:6667
+ForeverChat:Random server:irc.foreverchat.net:6667
+Freenode:Random AU server:chat.au.freenode.net:6665
+Freenode:Random EU server:chat.eu.freenode.net:6665
+Freenode:Random US server:chat.us.freenode.net:6665
+Freenode:Random server:chat.freenode.net:6665
+Freequest:Random server:irc.freequest.net:7000
+FunNet:Random server:irc.funnet.org:6667
+GalaxyNet:Random server:irc.galaxynet.org:6662
+GameSurge:Random EU server:irc.eu.gamesurge.net:6667
+GameSurge:Random US server:irc.us.gamesurge.net:6667
+GameSurge:Random server:irc.gamesurge.net:6667
+GammaForce:Random server:irc.gammaforce.org:6660
+GeekShed:Random server:irc.geekshed.net:6667
+German-Elite:Random server:irc.german-elite.net:6667
+German-freakz:Random server:irc.german-freakz.net:6667
+GigaCrew:Random server:irc.gigacrew.net:6667
+GigaIRC:Random server:irc.gigairc.net:6667
+GlobalGamers:Random server:irc.globalgamers.net:6667
+Globalchat:Random server:irc.globalchat.org:6667
+Goldchat:Random server:irc.goldchat.nl:6667
+Goodchatting:Random server:irc.goodchatting.com:6661
+GreekIRC:Random server:irc.greekirc.net:6667
+IRC-Hispano:Random server:irc.irc-hispano.org:6667
+IRC.BY:Random server:irc.by:6666
+IRC2:Random server:irc.irc2.hu:6667
+IRC4Fun:Random server:irc.irc4fun.net:6667
+IRCHighway:Random server:irc.irchighway.net:6660
+IRCnet :Random AU server:au.ircnet.org:6665
+IRCnet :Random EU server:eu.ircnet.org:6665
+IRCnet :Random US server:us.ircnet.org:6665
+IRCnet:EU, HU, Budapest:irc.atw-inter.net:6665
+IRCnet:EU, NL, Amsterdam:irc.xs4all.nl:6660
+IRCnet:EU, NL, Enschede:irc.snt.utwente.nl:6665
+IRCnet:Random server:open.ircnet.net:6665
+IRCnet:US, FL, Miami:ircnet.eversible.com:6665
+IRCnet:US, NJ, Jersey:ircnet.choopa.net:6665
+IRCsource:Random server:irc.ircsource.net:6667
+IRCtoo:Random server:irc.irctoo.net:6667
+IRCube:Random server:irc.ircube.org:6667
+IRDSI:Random server:irc.irdsi.net:6667
+IRSee:Random server:irc.irsee.org:6667
+Immortal-Anime:Random server:irc.immortal-anime.net:6660
+Imperium:Random server:irc.imperium.ca:6660
+Infomatrix:Random server:irc.infomatrix.net:6667
+IrCQNet:Random server:irc.icq.com:6665
+IrcWorld:Random server:irc.ircworld.nl:6667
+Jaundies:Random server:irc.jaundies.com:6667
+KampungChat:Random server:irc.kampungchat.org:6667
+Kickchat:Random server:irc.kickchat.com:6660
+KnightIRC:Random server:irc.knightirc.net:6660
+Kreynet:Random server:irc.krey.net:6667
+Krono:Random server:irc.krono.net:6660
+LandOLeet:Random server:irc.landoleet.org:6667
+Langochat:Random server:irc.langochat.net:6667
+Lepaknet:Random server:irc.lepaknet.org:6667
+LichtSnel:Random server:irc.lichtsnel.nl:6660
+LinkNet:Random server:irc.link-net.org:0
+QuakeNet:Random DE server:de.quakenet.org:6667
+QuakeNet:Random SE server:se.quakenet.org:6667
+QuakeNet:Random UK server:uk.quakenet.org:6667
+QuakeNet:Random US server:us.quakenet.org:6667
+Quakenet:Random server:irc.quakenet.org:6667
+Rizon:Random server:irc.rizon.net:6660
+SwiftIRC:Random server:irc.swiftirc.net:6667
+Undernet:CA, BC, Vancouver:vancouver.bc.ca.undernet.org:6667
+Undernet:CA, QC, Montreal:montreal.qc.ca.undernet.org:6660
+Undernet:EU, DE, Hamburg:hamburg.de.eu.undernet.org:6666
+Undernet:EU, HU, Budapest:budapest.hu.eu.undernet.org:6666
+Undernet:EU, NL, Amsterdam:amsterdam.nl.eu.undernet.org:6667
+Undernet:EU, NL, Diemen:diemen.nl.eu.undernet.org:6660
+Undernet:EU, RO, Bucharest:bucharest.ro.eu.undernet.org:6660
+Undernet:EU, SE, Lidingo:lidingo.se.eu.undernet.org:6666
+Undernet:Random EU server:eu.undernet.org:6667
+Undernet:Random US server:us.undernet.org:6667
+Undernet:US, FL, Tampa:tampa.fl.us.undernet.org:6660
+Undernet:US, IL, Chicago:chicago.il.us.undernet.org:6667
+Undernet:US, NY, Newyork:newyork.ny.us.undernet.org:6661
+WebChat:Random server:irc.webchat.org:7000
+euIRCnet:Random server:irc.euirc.net:6665

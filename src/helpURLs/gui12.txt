@@ -1,0 +1,44 @@
+ private void constructGUI() {
+    	
+    	JPanel bp = new JPanel();
+        
+        JPanel panel = new JPanel(new GridBagLayout());
+        GridBagConstraints cs = new GridBagConstraints();
+
+        cs.fill = GridBagConstraints.HORIZONTAL; 
+        cs.anchor = GridBagConstraints.CENTER; 
+        
+        cs.gridy = 1; 
+        cs.gridx = 0; 
+        cs.gridwidth = 2; 
+        scrollPane = new JScrollPane(listChannels = new JList());
+        panel.add(scrollPane, cs);
+       
+        cs.gridy = 2;
+        cs.gridx = 0;
+        search = new JTextField(); 
+        panel.add(search, cs); 
+        
+        
+        
+       
+        cs.gridy = 3; 
+        cs.gridx = 0; 
+        cs.gridwidth = 1; 
+        sortByUsers = new JButton("Sort by Users");
+        sortByUsers.addActionListener(this); 
+        panel.add(sortByUsers, cs);
+        
+        cs.gridy = 3;
+        cs.gridx = 1; 
+        cs.gridwidth = 1; 
+        sortByChannels = new JButton("Sort by Channels");
+        sortByChannels.addActionListener(this); 
+        panel.add(sortByChannels, cs);
+      
+        getContentPane().add(panel, BorderLayout.CENTER);
+        pack();
+        setResizable(false);
+        setLocationRelativeTo(parent);
+    	
+    }
